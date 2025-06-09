@@ -29,7 +29,7 @@ This starter kit includes authentication, logging, validation, and best practice
 └── index.js # Entry point
 
 ## Make sure you have Docker and Docker Compose installed and run this comand for start project
---docker-compose up --build
+docker-compose up --build
 
 ## Author
 Made with ❤️ by Fereydoon Salemi
