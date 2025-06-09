@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "66ee8e7ada43e51116fefdbe",
+    "tags": ["express", "backend"],
+    "name": "Asp.net MVC Course",
+    "Author": "Mosh",
+    "isPublished": true,
+    "price": "15"
+  },
+  {
+    "_id": "66f100a1a8a5c1f0b1e1a001",
+    "tags": ["node", "mongodb"],
+    "name": "Node.js Crash Course",
+    "Author": "Brad Traversy",
+    "isPublished": true,
+    "price": "20"
+  },
+  {
+    "_id": "66f100a1a8a5c1f0b1e1a002",
+    "tags": ["react", "frontend"],
+    "name": "React for Beginners",
+    "Author": "Max Schwarzmüller",
+    "isPublished": true,
+    "price": "25"
+  },
+  {
+    "_id": "66f100a1a8a5c1f0b1e1a003",
+    "tags": ["vue", "frontend"],
+    "name": "Vue.js Guide",
+    "Author": "Sarah Drasner",
+    "isPublished": false,
+    "price": "18"
+  },
+  {
+    "_id": "66f100a1a8a5c1f0b1e1a004",
+    "tags": ["python", "machine learning"],
+    "name": "Intro to Machine Learning",
+    "Author": "Andrew Ng",
+    "isPublished": true,
+    "price": "30"
+  },
+  {
+    "_id": "66f100a1a8a5c1f0b1e1a005",
+    "tags": ["angular", "typescript"],
+    "name": "Angular Deep Dive",
+    "Author": "Mosh",
+    "isPublished": false,
+    "price": "22"
+  },
+  {
+    "_id": "66f100a1a8a5c1f0b1e1a006",
+    "tags": ["devops", "docker"],
+    "name": "Docker Essentials",
+    "Author": "Bret Fisher",
+    "isPublished": true,
+    "price": "19"
+  }
+]
